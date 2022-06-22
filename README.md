@@ -1,5 +1,5 @@
 # hector_gazebo
-基于ros的gps与imu融合定位包
+基于ros的gps与imu的传感器插件
 
 安装
 ```
