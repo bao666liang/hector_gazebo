@@ -1,5 +1,5 @@
 # hector_gazebo
-基于ros的gps与imu的传感器插件
+基于gps与imu的传感器数据融合插件
 
 安装
 ```
